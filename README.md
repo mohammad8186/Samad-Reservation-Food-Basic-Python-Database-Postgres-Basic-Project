@@ -81,5 +81,5 @@ The system supports the following functionalities:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mohammad8186/Samad-Reservation-Food-Basic-Python-Database-Postgres-Basic-Project.git
+   git clone https://github.com/mohammad8186/Samad-Reservation-Food-Python-Database-Postgres-Basic-Project.git
 
